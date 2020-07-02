@@ -1,0 +1,17 @@
+{
+  "name": "launches/spaceX",
+  "description": "Simple web site for the launches of Space X.",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Alexander Cvetkov",
+      "email": "al_cvetkov@abv.bg"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Launch\\": "src"
+    }
+  },
+  "require": {}
+}
